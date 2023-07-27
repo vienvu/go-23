@@ -16,7 +16,7 @@ func SortFloatArray(arr []float64) []float64 {
 	return arr
 }
 
-func SortStringArray(arr *[]string) []string {
+func SortStringArray(arr []string) []string {
 	sort.Strings(arr)
 	return arr
 }

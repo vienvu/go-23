@@ -1,7 +1,7 @@
 package main
 
 import (
-	"../Day-2/sorting"
+	"github.com/vienvu/go-23/day-2/sorting"
 	"flag"
 	"fmt"
 	"strconv"
